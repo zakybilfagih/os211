@@ -1,0 +1,2 @@
+# FORMAT: ZCZC WEEK# MINUTES <log_code> <description>
+ZCZC W00 10 L03 Initialize Github repository.

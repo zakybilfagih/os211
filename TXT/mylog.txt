@@ -1,2 +1,8 @@
 # FORMAT: ZCZC WEEK# MINUTES <log_code> <description>
 ZCZC W00 10 L03 Initialize Github repository.
+ZCZC W00 20 L04 Setup basic Github pages functionality
+ZCZC W00 120 L21 Installed Debian on VirtualBox, setup X11 with window manager (dwm)
+ZCZC W00 240 L08 Dual booted Debian on my main machine, setup window manager, editor (neovim), and other user scripts.
+ZCZC W00 30 L06 Read a few pages on the first chapter of the OS book (Silberschatz et.al.)
+ZCZC W00 30 L05 GSGS Try finding a minimal static site generator. (found ssg5, static site generator written in POSIX shell)
+ZCZC W00 120 L08 Playing around with ssg5, added getting all post functionality with AWK and sed. (added html-xml-utils as dependency)

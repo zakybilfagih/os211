@@ -6,3 +6,8 @@ ZCZC W00 240 L08 Dual booted Debian on my main machine, setup window manager, ed
 ZCZC W00 30 L06 Read a few pages on the first chapter of the OS book (Silberschatz et.al.)
 ZCZC W00 30 L05 GSGS Try finding a minimal static site generator. (found ssg5, static site generator written in POSIX shell)
 ZCZC W00 120 L08 Playing around with ssg5, added getting all post functionality with AWK and sed. (added html-xml-utils as dependency)
+ZCZC W01 60 L06 Read a few pages on the first and the second chapter of the OS book (Silberschatz et.al.)
+ZCZC W01 100 L21 Installed neovim nightly on the VM, try setting up and play around with the builtin LSP server.
+ZCZC W01 120 L25 Continue reading the K&R C Programming book, try to do all the excercise in the second chapter.
+ZCZC W01 120 L25 Try implementing the ls command in C. ( its quite simple :) )
+ZCZC W01 120 L08 Try adding _includes functionality on ssg5 using bash, awk, and html-xml-utils

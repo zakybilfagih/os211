@@ -11,3 +11,7 @@ ZCZC W01 100 L21 Installed neovim nightly on the VM, try setting up and play aro
 ZCZC W01 120 L25 Continue reading the K&R C Programming book, try to do all the excercise in the second chapter.
 ZCZC W01 120 L25 Try implementing the ls command in C. ( its quite simple :) )
 ZCZC W01 120 L08 Try adding _includes functionality on ssg5 using bash, awk, and html-xml-utils
+ZCZC W02 60 L06 Skim and reading some interesting parts on the 16 and 17th chapter of the OS book (Silberschatz et.al.)
+ZCZC W02 180 L25 Continue reading the K&R C Programming book, finished 2 - 5th chapter of the book.
+ZCZC W02 120 L25 Patching my window manager (dwm) which is writtern in C. Added logic for hiding other windows when activating fullscreen.
+ZCZC W02 80 L07 Trying out w02 demo, c-language and permission, playing with badak.

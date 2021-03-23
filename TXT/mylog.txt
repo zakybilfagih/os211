@@ -15,3 +15,15 @@ ZCZC W02 60 L06 Skim and reading some interesting parts on the 16 and 17th chapt
 ZCZC W02 180 L25 Continue reading the K&R C Programming book, finished 2 - 5th chapter of the book.
 ZCZC W02 120 L25 Patching my window manager (dwm) which is writtern in C. Added logic for hiding other windows when activating fullscreen.
 ZCZC W02 80 L07 Trying out w02 demo, c-language and permission, playing with badak.
+ZCZC W03 70 L05 Reading and searching about NixOS and the nix package manager
+ZCZC W03 100 L02 ZOOM Meeting
+ZCZC W03 30 L01 Reading, and watching video posted on OS general thread.
+ZCZC W03 60 L11 Assignment #1
+ZCZC W03 60 L12 Assignment #2
+ZCZC W03 10 L13 Assignment #3
+ZCZC W03 85 L14 Assignment #4
+ZCZC W03 120 L15 Assignment #5
+ZCZC W03 20 L16 Assignment #6
+ZCZC W03 10 L17 Assignment #7
+ZCZC W03 10 L18 Assignment #8
+ZCZC W03 10 L19 Assignment #9

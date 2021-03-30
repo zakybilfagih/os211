@@ -27,3 +27,11 @@ ZCZC W03 20 L16 Assignment #6
 ZCZC W03 10 L17 Assignment #7
 ZCZC W03 10 L18 Assignment #8
 ZCZC W03 10 L19 Assignment #9
+ZCZC W04 150 L11 Reading the OS book chapter 9
+ZCZC W04 070 L12 Demo W04: Makefiles, playing with code examples
+ZCZC W04 020 L13 Updated myrank.txt
+ZCZC W04 030 L25 GSGS Makefiles
+ZCZC W04 120 L14 Creating top 10 list
+ZCZC W04 060 L16 Doing the W04 task
+ZCZC W04 005 L17 Updated myscript.sh
+ZCZC W04 020 L15 Update log

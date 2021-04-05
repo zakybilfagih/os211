@@ -18,11 +18,12 @@
 
 REC2="muhammad.zaki93@ui.ac.id"
 REC1="operatingsystems@vlsm.org"
+RESULT_DIR="$HOME/dox/uni/RESULT"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
 
-[ -d $HOME/RESULT ] || mkdir -p $HOME/RESULT
-pushd $HOME/RESULT
+[ -d $RESULT_DIR ] || mkdir -p $RESULT_DIR
+pushd $RESULT_DIR
 for II in W?? ; do
     [ -d $II ] || continue
     TARFILE=my$II.tar.bz2
@@ -35,8 +36,8 @@ for II in W?? ; do
 done
 popd
 
-rm -f $HOME/RESULT/fakeDODOL
-for II in $HOME/RESULT/myW*.tar.bz2.asc $HOME/RESULT/fakeDODOL ; do
+rm -f $RESULT_DIR/fakeDODOL
+for II in $RESULT_DIR/myW*.tar.bz2.asc $RESULT_DIR/fakeDODOL ; do
    echo "Check and move $II..."
    [ -f $II ] && mv -f $II .
 done

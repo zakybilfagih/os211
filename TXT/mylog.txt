@@ -35,3 +35,11 @@ ZCZC W04 120 L14 Creating top 10 list
 ZCZC W04 060 L16 Doing the W04 task
 ZCZC W04 005 L17 Updated myscript.sh
 ZCZC W04 020 L15 Update log
+ZCZC W05 10 L10 Changing top column label
+ZCZC W05 40 L13 Assignment #3
+ZCZC W05 10 L15 Assignment #5
+ZCZC W05 40 L14 Assignment #4
+ZCZC W05 20 L12 Assignment #2
+ZCZC W05 150 L05 GSGS related
+ZCZC W05 15 L10 Try getting the lowest ramsize, reading about initramfs.
+ZCZC W05 20 L05 GSGS related

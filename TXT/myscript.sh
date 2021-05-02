@@ -18,7 +18,7 @@
 
 REC2="muhammad.zaki93@ui.ac.id"
 REC1="operatingsystems@vlsm.org"
-RESULT_DIR="$HOME/dox/uni/RESULT"
+RESULT_DIR="$HOME/Documents/uni/RESULT"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
 

@@ -43,3 +43,8 @@ ZCZC W05 20 L12 Assignment #2
 ZCZC W05 150 L05 GSGS related
 ZCZC W05 15 L10 Try getting the lowest ramsize, reading about initramfs.
 ZCZC W05 20 L05 GSGS related
+ZCZC W07 100 L02 Zoom related
+ZCZC W07 60 L06 Reading the OS book.
+ZCZC W07 120 L13 Assignment #3
+ZCZC W07 20 L23 Discuss on discord.
+ZCZC W07 45 L14 Assignment #4

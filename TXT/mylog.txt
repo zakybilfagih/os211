@@ -48,3 +48,7 @@ ZCZC W07 60 L06 Reading the OS book.
 ZCZC W07 120 L13 Assignment #3
 ZCZC W07 20 L23 Discuss on discord.
 ZCZC W07 45 L14 Assignment #4
+ZCZC W08 60 L06 Reading the OS book chapter 5.
+ZCZC W08 120 L13 Assignment #3, and watching youtube on LFS.
+ZCZC W08 100 L02 Zoom related
+ZCZC W08 80 L12 Assignment #2, update top ten list

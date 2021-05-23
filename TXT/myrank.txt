@@ -30,3 +30,6 @@ ZCZC W06 mfadhlan98
 ZCZC W07 mkadit
 ZCZC W07 muadzaskar
 ZCZC W07 mirsalsa
+ZCZC W08 mkadit
+ZCZC W08 muadzaskar
+ZCZC W08 mirsalsa

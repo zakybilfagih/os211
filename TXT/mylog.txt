@@ -57,3 +57,6 @@ ZCZC W09 60 L06 Reading the OS book.
 ZCZC W09 120 L13 Assignment #3
 ZCZC W09 20 L23 Discuss on discord.
 ZCZC W09 45 L14 Assignment #4
+ZCZC W010 100 L02 Zoom related
+ZCZC W010 30 L06 Reading the OS book chapter 12.
+ZCZC W010 120 L14 Assignment #4
